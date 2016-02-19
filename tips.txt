@@ -1,0 +1,6 @@
+Learn ruby the Hard way tips
+---
+Read your .rb file backward.
+Read your .rb file out loud, saying even the characters.
+Make it personal (Try making the numbers in this script your measurements. It's weird, but talking about yourself will make it seem more real. Also, you're just starting out so it won't make too much sense. Keep going and more exercises will explain it more.)
+write comments only to explain difficult to understand code or why you did something. Why is usually much more important, and then you try to write the code so that it explains how something is being done on its own
